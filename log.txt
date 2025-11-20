@@ -1,4 +1,6 @@
-471caa6 (HEAD -> main) Task 2.1
-2031d94 (origin/main, origin/HEAD) Task 1.2
+436e7fc (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+c77a91f logged 2.1
+471caa6 Task 2.1
+2031d94 Task 1.2
 1df4502 Task 1.1
 2576391 Initial commit
